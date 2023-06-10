@@ -1,7 +1,3 @@
-## 基于知识图谱的医疗诊断知识问答系统
-
-<img src="./img/zsxq.jpg" alt="imang" width=250 style="zoom:20%;" />
-
 ### 环境
 
 - python    >= 3.6
